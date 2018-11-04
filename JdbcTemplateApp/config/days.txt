@@ -1,0 +1,26 @@
+	# Logs for 'ReadFileLineByLineDemo' #
+	=====================================
+	
+<!-----Read all lines as a Stream-----!>
+sunday
+monday
+tuesday
+wednesday
+thursday
+friday
+saturday
+	 
+
+<!-----Filtering the file data using Java8 filtering-----!>
+sunday
+saturday	 
+
+
+<!-----Read all lines by using BufferedReader-----!>
+SUNDAY
+MONDAY
+TUESDAY
+WEDNESDAY
+THURSDAY
+FRIDAY
+SATURDAY

@@ -1,0 +1,24 @@
+
+-- Compiled APIs and codes
+http://www.javased.com/
+
+https://dzone.com/links
+https://dzone.com/articles/intro-git?fromrel=true
+http://gitready.com/intermediate/2009/04/03/find-ancestor-commits.html
+https://grokonez.com/
+https://sivalabs.in/2016/03/springboot-working-with-jdbctemplate/
+
+
+https://www.programcreek.com/2013/09/top-10-websites-for-advanced-level-java-developers/
+https://leetcode.com/
+http://www.javaworld.com/
+http://www.programcreek.com/
+
+
+// download the coding pdf at the bottom of the page
+https://www.programcreek.com/2013/08/top-books-for-advanced-level-java-developers/
+
+Logging:
+==========
+https://examples.javacodegeeks.com/core-java/util/logging/java-util-logging-example/
+https://examples.javacodegeeks.com/enterprise-java/spring/boot/spring-boot-logging-example/
