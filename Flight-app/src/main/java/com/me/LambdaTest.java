@@ -53,6 +53,28 @@ public class LambdaTest {
 	  System.out.println(name);
   }
   
+		
+		/*
+		
+		public void displayFileLocation(){
+		try {
+			Path path=Paths.get("src\\main\\java\\com\\delta\\rest\\controller\\ProductController.java");
+			Stream<String> lines = Files.lines(path);
+			lines.forEach(System.out::println);
+		}
+		catch(Exception ex) {
+			ex.printStackTrace();
+		
+		}
+		finally {
+			//lines.close();
+		}
+
+		
+		}
+		
+		
+		*/
   
   
   
